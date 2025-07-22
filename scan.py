@@ -1,10 +1,4 @@
-"""This is a module to scan over ma to get the ALPII sensitivity
 
-...Module author: Chen Sun
-...Year: 2023
-...Email: chensun@lanl.gov
-
-"""
 from tqdm import tqdm
 import numpy as np
 import base as ba
