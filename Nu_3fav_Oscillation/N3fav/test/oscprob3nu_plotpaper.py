@@ -1,28 +1,3 @@
-# -*- coding: utf-8 -*-
-r"""Produce the plot of 3nu probabilities vs. energy shown in the paper.
-
-Contains a routine to generate and save the plot of three-neutrino
-probabilities vs. energy that is included in the paper.
-
-Routine listings
-----------------
-
-    * plot_probability_3nu_vs_energy_compare - Generates, saves the plot
-
-References
-----------
-
-.. [1] Mauricio Bustamante, "Exact neutrino oscillation probabilities
-   with arbitrary time-independent Hamiltonians", arXiv:1904.XXXXX.
-
-Created: 2019/04/17 18:08
-Last modified: 2019/04/22 20:36
-"""
-
-
-__version__ = "1.0"
-__author__ = "Mauricio Bustamante"
-__email__ = "mbustamante@nbi.ku.dk"
 
 
 from numpy import *
