@@ -1,24 +1,3 @@
-# -*- coding: utf-8 -*-
-r"""Routines to plot three-neutrino flavor-transition probabilities.
-
-This module contains contains routines to plot three-neutrino
-oscillation probabilities vs. the neutrino baseline and energy.  These
-routines are used by run_testsuite.py to produce a suite of test plots.
-
-Routine listings
-----------------
-
-    * plot_probability_3nu_vs_baseline - Plot probabilities vs. baseline
-    * plot_probability_3nu_vs_energy - Plot probabilities vs. energy
-
-Created: 2019/04/17 17:14
-Last modified: 2019/04/22 18:01
-"""
-
-
-__version__ = "1.0"
-__author__ = "Mauricio Bustamante"
-__email__ = "mbustamante@gmail.com"
 
 
 from numpy import *
