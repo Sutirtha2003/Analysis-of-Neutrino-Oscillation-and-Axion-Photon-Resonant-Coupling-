@@ -1,25 +1,7 @@
-# -*- coding: utf-8 -*-
-r"""Run the trivial 3nu example shown in README.md.
-
-Runs the trivial three-neutrino example shown in README.md
-
-References
-----------
-
-.. [1] Mauricio Bustamante, "Exact neutrino oscillation probabilities:
-   a fast general-purpose computation method for two and three neutrino
-   flavors", arXiv:1904.XXXXX.
-
-Created: 2019/04/29 23:22
-Last modified: 2019/04/29 23:22
-"""
 
 
 from __future__ import print_function
 
-__version__ = "1.0"
-__author__ = "Mauricio Bustamante"
-__email__ = "mbustamante@gmail.com"
 
 
 import sys
