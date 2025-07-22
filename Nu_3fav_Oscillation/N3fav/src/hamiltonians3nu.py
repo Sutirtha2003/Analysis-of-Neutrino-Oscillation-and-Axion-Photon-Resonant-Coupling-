@@ -1,31 +1,4 @@
-# -*- coding: utf-8 -*-
-r"""Compute three-neutrino Hamiltonians for selected scenarios.
 
-This module contains the routines to compute the three-neutrino
-Hamiltonians for the following scenarios: oscillations in vacuum, in
-matter of constant density, in matter with non-standard interactions
-(NSI), and in a CPT-odd Lorentz invariance-violating background (LIV).
-
-Routine listings
-----------------
-
-    * mixing_matrix_2nu - Returns 2x2 rotation matrix
-    * hamiltonian_2nu_vacuum_energy_independent - Returns H_vac (no 1/E)
-    * delta - Kronecker delta
-    * J - Product of four elements of PMNS matrix
-    * probabilities_3nu_vacuum_std - Vacuum probability, std. formula
-    * hamiltonian_2nu_matter - Returns H_matter
-    * hamiltonian_2nu_nsi - Returns H_NSI
-    * hamiltonian_2nu_liv - Returns H_LIV
-
-Created: 2019/04/17 17:14
-Last modified: 2019/04/30 01:03
-"""
-
-
-__version__ = "1.0"
-__author__ = "Mauricio Bustamante"
-__email__ = "mbustamante@gmail.com"
 
 
 from numpy import *
