@@ -1,19 +1,4 @@
-# -*- coding: utf-8 -*-
-r"""Contains physical constants and unit-conversion constants.
 
-This module contains contains values of physical constants and
-unit-conversion factors used by the various modules of NuOscProbExact.
-The core modules oscprob2nu.py and oscprob3nu.py do not require these
-constants.
-
-Created: 2019/04/17 17:03
-Last modified: 2019/04/29 23:39
-"""
-
-
-__version__ = "1.0"
-__author__ = "Mauricio Bustamante"
-__email__ = "mbustamante@gmail.com"
 
 
 from numpy import *
