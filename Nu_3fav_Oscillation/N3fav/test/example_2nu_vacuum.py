@@ -1,19 +1,3 @@
-# -*- coding: utf-8 -*-
-r"""Run the vacuum 2nu example shown in README.md.
-
-Runs the two-neutrino example of oscillations in vacuum shown in
-README.md
-
-References
-----------
-
-.. [1] Mauricio Bustamante, "Exact neutrino oscillation probabilities:
-   a fast general-purpose computation method for two and three neutrino
-   flavors", arXiv:1904.XXXXX.
-
-Created: 2019/04/30 00:18
-Last modified: 2019/04/30 00:18
-"""
 
 
 from __future__ import print_function
