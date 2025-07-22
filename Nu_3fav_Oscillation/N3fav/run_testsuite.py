@@ -1,21 +1,7 @@
-# -*- coding: utf-8 -*-
-r"""Produce a suite of test plots of probabilities.
-
-Running this module ('python run_testsuite.py') creates a number of
-test plots of the two- and three-neutrino oscillation probabilities
-vs. baseline and vs. energy.  Also generates the plot included in the
-paper.
-
-Created: 2019/04/22 16:23
-Last modified: 2019/04/27 17:19
-"""
 
 
 from __future__ import print_function
 
-__version__ = "1.0"
-__author__ = "Mauricio Bustamante"
-__email__ = "mbustamante@gmail.com"
 
 
 from numpy import *
